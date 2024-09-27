@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Nuestro Objetivo",
-        "description": "El Corazón de tu Ciudad es un proyecto comunitario que busca conectar y fortalecer a nuestra comunidad a través de iniciativas sociales y culturales. ",
+        "description": "Somos un medio de comunicación alternativo a la comunicación masiva que nos ocupa la noble tarea de construir estrategias para el diálogo, el encuentro y las relaciones solidarias, dando prelación a la comunicación humana y la producción colectiva del conocimiento.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Nuestra Misión",
-        "description": "Trabajamos para promover la inclusión, la colaboración y el bienestar colectivo. Con un enfoque en el sentir de la gente, queremos ser el punto de encuentro donde se escuchen y valoren todas las voces.",
+        "description": "Trabajamos en la ciudad de Bogotá con énfasis especial en la Localidad 18 Rafael Uribe Uribe, donde nos hemos hacho participes de algunas mesas de participación ciudadana como, Mesa Ciudadano Habitante de Calle, Consejo de Bienestar y Protección Animal, Consejo Local de Mujeres, Consejo Ambiental Local y Mesa Local de Comunicaciones.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 313 4108737",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "elcorazondetuciudad@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Blog",
+        "description": "www.elcorazondetuciudad.com.co",
+        "icon": "/assets/images/blog.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "El Corazón de tu Ciudad",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
