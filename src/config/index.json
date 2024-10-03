@@ -64,7 +64,8 @@
       {
         "name": "Blog",
         "description": "www.elcorazondetuciudad.com.co",
-        "icon": "/assets/images/blog.png"
+        "icon": "/assets/images/blog.png",
+        "url":"www.elcorazondetuciudad.com.co"
       },
       {
         "name": "Facebook",
