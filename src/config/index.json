@@ -41,7 +41,7 @@
       },
       {
         "title": "Nuestra Misión",
-        "description": "Trabajamos en la ciudad de Bogotá con énfasis especial en la Localidad 18 Rafael Uribe Uribe, donde nos hemos hacho participes de algunas mesas de participación ciudadana como, Mesa Ciudadano Habitante de Calle, Consejo de Bienestar y Protección Animal, Consejo Local de Mujeres, Consejo Ambiental Local y Mesa Local de Comunicaciones.",
+        "description": "Trabajamos en la ciudad de Bogotá con énfasis especial en la localidad 18 Rafael Uribe Uribe, donde nos hemos hecho partícipes de algunas mesas de participación ciudadana como Mesa Ciudadano Habitante de Calle, Consejo de Bienestar y Protección Animal, Consejo Local de Mujeres, Consejo Ambiental Local y Mesa Local de Comunicaciones.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -68,9 +68,28 @@
         "url":"www.elcorazondetuciudad.com.co"
       },
       {
+        "name": "Instagram",
+        "description": "@ecdtuciudad",
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/ecdtuciudad/"
+      },
+      {
         "name": "Facebook",
         "description": "El Corazón de tu Ciudad",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/elcorazondetuciudad?locale=es_LA"
+      },
+      {
+        "name": "Youtube",
+        "description": "@elcorazondetuciudad",
+        "icon": "/assets/images/youtube.png",
+        "url":"https://www.youtube.com/@elcorazondetuciudad"
+      },
+      {
+        "name": "X",
+        "description": "@ECDtuciudad",
+        "icon": "/assets/images/x.png",
+        "url":"https://x.com/ECDtuciudad"
       }
     ]
   },
